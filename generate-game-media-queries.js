@@ -2,9 +2,9 @@
 
 const GAME_COLS = 16;
 const GAME_ROWS = 20;
-const CONTROL_BLOCKS = 4;
-const MIN_BLOCK_SIZE = 5;
-const MAX_BLOCK_SIZE = 100;
+const CONTROL_BLOCKS = 14;
+const MIN_BLOCK_SIZE = 6;
+const MAX_BLOCK_SIZE = 98;
 
 let query = ``;
 
