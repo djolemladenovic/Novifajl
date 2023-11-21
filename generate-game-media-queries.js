@@ -3,8 +3,8 @@
 const GAME_COLS = 16; // sta ce nam ovde ovo
 const GAME_ROWS = 20;
 const CONTROL_BLOCKS = 12;
-const MIN_BLOCK_SIZE = 16;
-const MAX_BLOCK_SIZE = 97;
+const MIN_BLOCK_SIZE = 116;
+const MAX_BLOCK_SIZE = 90;
 
 let query = ``;
 
