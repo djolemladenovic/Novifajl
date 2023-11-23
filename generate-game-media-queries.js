@@ -1,6 +1,6 @@
 // @flow
 
-const GAME_COLS = 18; // sta ce nam ovde ovo
+const GAME_COLS = 18; // menjali smo 
 const GAME_ROWS = 23;
 const CONTROL_BLOCKS = 12;
 const MIN_BLOCK_SIZE = 116;
