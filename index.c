@@ -6,6 +6,6 @@ int main()
     printf("Zdravo drustvo\n");
      printf("Zdravo drustvo\n")
     printf("Zdravo drustvo\n");
-return 0;
+return 0; # nepotreban komentar
 
 }
